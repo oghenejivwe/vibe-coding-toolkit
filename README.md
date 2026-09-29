@@ -11,7 +11,7 @@ The tools I use when building with AI, sorted by category.
 
 | Tool | What it is |
 |---|---|
-| [Refero Styles: Letters](https://styles.refero.design/style/04109c48-f591-4110-9739-622243d4ecc2) | Design system reference taken from Letters (letters.app). Monochrome UI, soft blue gradient hero, near black buttons, Open Runde type. Refero exports any style as DESIGN.md, Tailwind v4 or CSS variables, ready to hand to an AI coding tool. |
+| [Refero Styles](https://styles.refero.design/) | Library of design systems taken from real products: colors, typography, spacing and components. Export any style as DESIGN.md, Tailwind v4 or CSS variables and hand it to an AI coding tool so the app looks designed. |
 
 ## Skills for Building
 
