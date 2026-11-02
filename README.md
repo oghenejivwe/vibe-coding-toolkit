@@ -8,6 +8,7 @@ The tools I use when building with AI, sorted by category.
 * [Skills for Building](#skills-for-building)
 * [Agents](#agents)
 * [SEO](#seo)
+* [Marketing](#marketing)
 
 ## Design
 
@@ -33,3 +34,9 @@ The tools I use when building with AI, sorted by category.
 | Tool | What it is |
 |---|---|
 | [OpenSEO](https://github.com/every-app/open-seo) | Open source alternative to Semrush and Ahrefs: keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility. Comes with an MCP server and agent skills so Claude Code can pull your SEO data directly. Self host it with your own DataForSEO key and pay only for what you use, or try the hosted version at openseo.so. |
+
+## Marketing
+
+| Tool | What it is |
+|---|---|
+| [Places To Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup) | Where to post a new product to get its first users: around 20 subreddits (r/SideProject, r/SaaS, r/indiehackers and others) plus dozens of launch directories and listing sites. Started from a Hacker News thread and still maintained; also readable at placestopostyourstartup.com. |
