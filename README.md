@@ -7,6 +7,7 @@ The tools I use when building with AI, sorted by category.
 * [Design](#design)
 * [Skills for Building](#skills-for-building)
 * [Agents](#agents)
+* [Research](#research)
 * [SEO](#seo)
 * [Marketing](#marketing)
 
@@ -22,12 +23,19 @@ The tools I use when building with AI, sorted by category.
 |---|---|
 | [The Skills by Suhail Kakar](https://github.com/suhailkakar/the-skills) | 20 Claude Code skills that catch production mistakes while you build: leaked API keys, missing auth, no rate limits on LLM calls, unsafe SQL, no migration plan. Each skill fires on a specific symptom, such as adding an env var or writing an API route. |
 | [SEO Launch](https://github.com/oghenejivwe/seo-skill) | My Claude Code skill for SEO from before launch onward. It reads the code to see what the product really does, researches keywords, plans the site structure, writes the pages and gates the launch. After launch it comes back on a schedule and ranks fixes by the clicks each one is worth. |
+| [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | Free SEO audit plugin for Claude Code. Point it at any site and 19 specialist agents check technical SEO, page speed, content quality, schema markup, local and international SEO, and how likely AI search (ChatGPT, Perplexity, Google AI Overviews) is to cite you. Type `/seo` to start; you get back an action plan sorted by impact. |
 
 ## Agents
 
 | Tool | What it is |
 |---|---|
 | [The Agency](https://github.com/msitarzewski/agency-agents) | A big roster of specialist AI agents, each with its own role, workflow and deliverables: frontend developer, reality checker, Reddit community manager and many more. Installs into Claude Code, Cursor, Codex, Gemini CLI and other tools, by script or with a desktop app. |
+
+## Research
+
+| Tool | What it is |
+|---|---|
+| [Agent Reach](https://github.com/Panniantong/Agent-Reach/blob/main/docs/README_en.md) | Lets your AI agent search and read places it normally can't: X, Reddit, YouTube and Bilibili subtitles, GitHub, LinkedIn jobs, XiaoHongShu and more. One CLI, no API fees, works with Claude Code, Codex and other agents. Sites that need a login reuse your Chrome session, so the project suggests signing in with a secondary account. |
 
 ## SEO
 
